@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="30" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="Jnombre1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="Jnombre2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="Jcontraseña" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="Tapellido1" alignment="0" max="32767" attributes="0"/>
+                                              <Group type="102" attributes="0">
+                                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                      <Component id="Tnombre2" alignment="0" pref="109" max="32767" attributes="0"/>
+                                                      <Component id="Tnombre1" alignment="0" max="32767" attributes="0"/>
+                                                  </Group>
+                                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace max="32767" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" attributes="0">
+                                          <Component id="Tcontrasenia" min="-2" pref="101" max="-2" attributes="0"/>
+                                          <EmptySpace max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="Japellido1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="Jidusuario" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="Jusuario" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                              <Component id="Tidusuario" pref="109" max="32767" attributes="0"/>
+                                              <Component id="Tusuario" max="32767" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="132" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="Insertar_Usuario" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+                          <Component id="Limpiar" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="Japellido2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="Tapellido2" min="-2" pref="111" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="Jtelefono" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="Ttelefono" min="-2" pref="111" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="Jcorreo" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="Tcorreo" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="117" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="Jestatura" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="Jpeso" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="Jedad" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="Testatura" max="32767" attributes="0"/>
+                                      <Component id="Tpeso" max="32767" attributes="0"/>
+                                      <Component id="Tedad" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="Ir_a_Modificar_Usuario" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                                  <Component id="Volver" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="123" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Jidusuario" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Tidusuario" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Japellido2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Tapellido2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Jusuario" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Tusuario" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Jtelefono" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Ttelefono" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Jcontraseña" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Jcorreo" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Tcorreo" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Tcontrasenia" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Jnombre1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Tnombre1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Jestatura" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Testatura" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Jnombre2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Tnombre2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Jpeso" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Tpeso" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Japellido1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Tapellido1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Jedad" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Tedad" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="118" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Volver" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Ir_a_Modificar_Usuario" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Limpiar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Insertar_Usuario" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Insertar los datos del usuario"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Jidusuario">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="IdUsaurio *"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Tidusuario">
+        </Component>
+        <Component class="javax.swing.JLabel" name="Jusuario">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Usuario *"/>
+            <Property name="toolTipText" type="java.lang.String" value=""/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Tusuario">
+        </Component>
+        <Component class="javax.swing.JLabel" name="Jcontrase&#xf1;a">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Contrase&#xf1;a *"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Tcontrasenia">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TcontraseniaActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Jnombre1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nombre 1 *"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Tnombre1">
+        </Component>
+        <Component class="javax.swing.JLabel" name="Jnombre2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nombre 2"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Tnombre2">
+        </Component>
+        <Component class="javax.swing.JLabel" name="Japellido1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Apellido 1*"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Tapellido1">
+        </Component>
+        <Component class="javax.swing.JLabel" name="Japellido2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Apellido 2"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Tapellido2">
+        </Component>
+        <Component class="javax.swing.JLabel" name="Jtelefono">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Telefono *"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Ttelefono">
+        </Component>
+        <Component class="javax.swing.JLabel" name="Jcorreo">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Correo *"/>
+            <Property name="toolTipText" type="java.lang.String" value=""/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Tcorreo">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TcorreoActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Jestatura">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Estatura * "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Testatura">
+        </Component>
+        <Component class="javax.swing.JLabel" name="Jpeso">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Peso *"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Tpeso">
+        </Component>
+        <Component class="javax.swing.JLabel" name="Jedad">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Edad *"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Tedad">
+        </Component>
+        <Component class="javax.swing.JButton" name="Volver">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Volver"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VolverActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="Ir_a_Modificar_Usuario">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Ir a Modificar Usuario"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Ir_a_Modificar_UsuarioActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="Limpiar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Limpiar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="LimpiarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="Insertar_Usuario">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Insertar Usuario"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Insertar_UsuarioActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
